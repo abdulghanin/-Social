@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socail/static/css/main.d75476ff.css",
+    "main.js": "/socail/static/js/main.64177a06.js",
+    "index.html": "/socail/index.html",
+    "main.d75476ff.css.map": "/socail/static/css/main.d75476ff.css.map",
+    "main.64177a06.js.map": "/socail/static/js/main.64177a06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75476ff.css",
+    "static/js/main.64177a06.js"
+  ]
+}
